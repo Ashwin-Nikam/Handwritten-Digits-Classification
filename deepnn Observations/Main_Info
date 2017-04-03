@@ -1,0 +1,28 @@
+2 Hidden Layers
+springsteen {~} > python3 deepnnScript.py 
+Total time taken:  199.35309863090515
+Optimization Finished!
+Accuracy: 0.807721
+springsteen {~} > 
+
+3 Hidden Layers
+springsteen {~} > python3 deepnnScript.py
+Total time taken:  268.59179949760437
+Optimization Finished!
+Accuracy: 0.780091
+springsteen {~} > 
+
+5 Hidden Layers
+springsteen {~} > python3 deepnnScript.py
+Total time taken:  271.55633306503296
+Optimization Finished!
+Accuracy: 0.791446
+springsteen {~} > 
+
+7 Hidden Layers
+springsteen {~} > python3 deepnnScript.py 
+Total time taken:  355.06942200660706
+Optimization Finished!
+Accuracy: 0.730886
+springsteen {~} > 
+
